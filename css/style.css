@@ -1,0 +1,6 @@
+html {
+  font-family: "Lato", arial, sans-serif;
+}
+ul > li {
+  list-style-type: none;
+}
